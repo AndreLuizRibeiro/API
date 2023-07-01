@@ -1,6 +1,10 @@
 # "Nome do Grupo"
 > Colocar aqui a logo da equipe
 
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/lista%20retratil.png" width="100%"/>
+</p>
+
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 
@@ -28,7 +32,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Índice](#índice)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Funcionalidades e Demonstrações da Aplicação](#funcionalidades-e-demonstrações-da-aplicação)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do produto](#backlog-do-produto)
 * [Burndown](#burndown)
@@ -38,27 +42,50 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Equipe
 >Colocar aqui uma imagem da equipe.
 
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
+</p>
+
 # Objetivo do Projeto
 >Descrever aqui os objetivos desse projeto
 
-# Funcionalidades e Demonstração da Aplicação
+# Funcionalidades e Demonstrações da Aplicação
 
 ## Sprint 1
 >Descrever aqui o que foi entregue na sprint
 
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
+</p>
+
 ## Sprint 2
 >Descrever aqui o que foi entregue na sprint
+
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
+</p>
 
 ## Sprint 3
 >Descrever aqui o que foi entregue na sprint
 
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
+</p>
+
 ## Sprint 4
 >Descrever aqui o que foi entregue na sprint
+
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
+</p>
 
 ## Apresentação final
 Vídeo com a apresentação final da API do "semestre/ano"
 >Colocar o link para o vídeo da apresentação
 
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/alinhamento.png" width="100%"/>
+</p>
 
 ## Tecnologias Utilizadas
 ### Produto 
@@ -72,18 +99,26 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 # Cronograma das Sprints
+
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)]()
 
 
-# Backlog do produto
+## Backlog do produto
 >Descrever aqui as Regras de Negócio, Requisitos funcionais e Requisitos não funcionais
-  
 
-# Burndown
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
+</p>
+
+## Burndown
 >Colocar aqui Burndown do projeto
+
+<p align="center">
+ <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
+</p>
 
 ## Sprint 1
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
@@ -99,6 +134,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 # Competências desenvolvidas
+> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
 <details>
